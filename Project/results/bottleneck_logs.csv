@@ -1,0 +1,4 @@
+source,destination,original_bandwidth,reduced_bandwidth,original_latency,increased_latency
+Regional2,CDN4,1000,500,5,15
+User26,AccessPoint6,200,100,30,40
+Regional5,CDN10,1000,500,5,15

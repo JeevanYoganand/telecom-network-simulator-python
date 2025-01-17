@@ -1,0 +1,101 @@
+Packet Number,Source Node,Destination Node,Path,Total Latency (ms),Bandwidth Used (Mbps)
+1,User46,User94,User46 -> AccessPoint6 -> Regional1 -> Core1 -> Regional4 -> AccessPoint14 -> User94,90,33
+2,User11,AccessPoint9,User11 -> AccessPoint11 -> Regional1 -> Core1 -> Regional4 -> AccessPoint9,60,71
+3,User64,User57,User64 -> AccessPoint4 -> Regional4 -> Core1 -> Regional2 -> AccessPoint17 -> User57,90,65
+4,User87,AccessPoint19,User87 -> AccessPoint7 -> Regional2 -> Core1 -> Regional4 -> AccessPoint19,60,50
+5,User82,User63,User82 -> AccessPoint2 -> Regional2 -> Core1 -> Regional3 -> AccessPoint3 -> User63,90,86
+6,User71,CDN5,User71 -> AccessPoint11 -> Regional1 -> CDN5,45,66
+7,User74,User37,User74 -> AccessPoint14 -> Regional4 -> Core1 -> Regional2 -> AccessPoint17 -> User37,90,91
+8,User77,CDN7,User77 -> AccessPoint17 -> Regional2 -> CDN7,45,59
+9,User12,User54,User12 -> AccessPoint12 -> Regional2 -> Core1 -> Regional4 -> AccessPoint14 -> User54,90,42
+10,User2,User100,User2 -> AccessPoint2 -> Regional2 -> Core1 -> Regional5 -> AccessPoint20 -> User100,90,16
+11,User29,User29,User29,0,77
+12,User23,User9,User23 -> AccessPoint3 -> Regional3 -> Core1 -> Regional4 -> AccessPoint9 -> User9,90,89
+13,User2,Regional4,User2 -> AccessPoint2 -> Regional2 -> Core1 -> Regional4,50,44
+14,User26,AccessPoint2,User26 -> AccessPoint6 -> Regional1 -> Core1 -> Regional2 -> AccessPoint2,70,18
+15,User63,User89,User63 -> AccessPoint3 -> Regional3 -> Core1 -> Regional4 -> AccessPoint9 -> User89,90,13
+16,User40,User7,User40 -> AccessPoint20 -> Regional5 -> Core1 -> Regional2 -> AccessPoint7 -> User7,90,97
+17,User33,AccessPoint11,User33 -> AccessPoint13 -> Regional3 -> Core1 -> Regional1 -> AccessPoint11,60,58
+18,User64,AccessPoint6,User64 -> AccessPoint4 -> Regional4 -> Core1 -> Regional1 -> AccessPoint6,60,8
+19,User60,CDN10,User60 -> AccessPoint20 -> Regional5 -> Core1 -> CDN10,48,23
+20,User6,AccessPoint19,User6 -> AccessPoint6 -> Regional1 -> Core1 -> Regional4 -> AccessPoint19,60,94
+21,User90,User17,User90 -> AccessPoint10 -> Regional5 -> Core1 -> Regional2 -> AccessPoint17 -> User17,90,95
+22,User74,AccessPoint2,User74 -> AccessPoint14 -> Regional4 -> Core1 -> Regional2 -> AccessPoint2,60,44
+23,User89,Core3,User89 -> AccessPoint9 -> Regional4 -> Core3,45,85
+24,User6,User61,User6 -> AccessPoint6 -> Regional1 -> AccessPoint1 -> User61,80,8
+25,User66,User12,User66 -> AccessPoint6 -> Regional1 -> Core1 -> Regional2 -> AccessPoint12 -> User12,90,1
+26,User61,User65,User61 -> AccessPoint1 -> Regional1 -> Core1 -> Regional5 -> AccessPoint5 -> User65,90,66
+27,User27,User88,User27 -> AccessPoint7 -> Regional2 -> Core1 -> Regional3 -> AccessPoint8 -> User88,90,29
+28,User34,AccessPoint1,User34 -> AccessPoint14 -> Regional4 -> Core1 -> Regional1 -> AccessPoint1,60,61
+29,User21,User47,User21 -> AccessPoint1 -> Regional1 -> Core1 -> Regional2 -> AccessPoint7 -> User47,90,71
+30,User51,User93,User51 -> AccessPoint11 -> Regional1 -> Core1 -> Regional3 -> AccessPoint13 -> User93,90,55
+31,User53,User67,User53 -> AccessPoint13 -> Regional3 -> Core1 -> Regional2 -> AccessPoint7 -> User67,90,34
+32,User40,AccessPoint18,User40 -> AccessPoint20 -> Regional5 -> Core1 -> Regional3 -> AccessPoint18,60,40
+33,User65,User92,User65 -> AccessPoint5 -> Regional5 -> Core1 -> Regional2 -> AccessPoint12 -> User92,90,96
+34,User43,User31,User43 -> AccessPoint3 -> Regional3 -> Core1 -> Regional1 -> AccessPoint11 -> User31,90,89
+35,User53,User25,User53 -> AccessPoint13 -> Regional3 -> Core1 -> Regional5 -> AccessPoint5 -> User25,90,21
+36,User3,CDN2,User3 -> AccessPoint3 -> Regional3 -> CDN2,45,53
+37,User90,User16,User90 -> AccessPoint10 -> Regional5 -> Core1 -> Regional1 -> AccessPoint16 -> User16,90,35
+38,User30,User97,User30 -> AccessPoint10 -> Regional5 -> Core1 -> Regional2 -> AccessPoint17 -> User97,90,34
+39,User86,User45,User86 -> AccessPoint6 -> Regional1 -> Core1 -> Regional5 -> AccessPoint5 -> User45,90,67
+40,User6,User68,User6 -> AccessPoint6 -> Regional1 -> Core1 -> Regional3 -> AccessPoint8 -> User68,90,26
+41,User39,User71,User39 -> AccessPoint19 -> Regional4 -> Core1 -> Regional1 -> AccessPoint11 -> User71,90,42
+42,User36,User11,User36 -> AccessPoint16 -> Regional1 -> AccessPoint11 -> User11,80,92
+43,User91,User25,User91 -> AccessPoint11 -> Regional1 -> Core1 -> Regional5 -> AccessPoint5 -> User25,90,18
+44,User87,Regional5,User87 -> AccessPoint7 -> Regional2 -> Core1 -> Regional5,50,43
+45,User16,User61,User16 -> AccessPoint16 -> Regional1 -> AccessPoint1 -> User61,80,23
+46,User68,User60,User68 -> AccessPoint8 -> Regional3 -> Core1 -> Regional5 -> AccessPoint20 -> User60,90,63
+47,User13,User48,User13 -> AccessPoint13 -> Regional3 -> AccessPoint8 -> User48,80,18
+48,User29,User35,User29 -> AccessPoint9 -> Regional4 -> Core1 -> Regional5 -> AccessPoint15 -> User35,90,75
+49,User89,User72,User89 -> AccessPoint9 -> Regional4 -> Core1 -> Regional2 -> AccessPoint12 -> User72,90,94
+50,User62,AccessPoint14,User62 -> AccessPoint2 -> Regional2 -> Core1 -> Regional4 -> AccessPoint14,60,67
+51,User20,User22,User20 -> AccessPoint20 -> Regional5 -> Core1 -> Regional2 -> AccessPoint2 -> User22,90,31
+52,User33,User44,User33 -> AccessPoint13 -> Regional3 -> Core1 -> Regional4 -> AccessPoint4 -> User44,90,29
+53,User78,CDN3,User78 -> AccessPoint18 -> Regional3 -> CDN3,45,73
+54,User42,User62,User42 -> AccessPoint2 -> User62,60,62
+55,User24,User77,User24 -> AccessPoint4 -> Regional4 -> Core1 -> Regional2 -> AccessPoint17 -> User77,90,83
+56,User87,User65,User87 -> AccessPoint7 -> Regional2 -> Core1 -> Regional5 -> AccessPoint5 -> User65,90,40
+57,User81,User25,User81 -> AccessPoint1 -> Regional1 -> Core1 -> Regional5 -> AccessPoint5 -> User25,90,68
+58,User66,CDN10,User66 -> AccessPoint6 -> Regional1 -> CDN10,45,88
+59,User72,Core2,User72 -> AccessPoint12 -> Regional2 -> Core2,45,94
+60,User18,AccessPoint15,User18 -> AccessPoint18 -> Regional3 -> Core1 -> Regional5 -> AccessPoint15,60,52
+61,User22,User68,User22 -> AccessPoint2 -> Regional2 -> Core1 -> Regional3 -> AccessPoint8 -> User68,90,95
+62,User26,User5,User26 -> AccessPoint6 -> Regional1 -> Core1 -> Regional5 -> AccessPoint5 -> User5,100,38
+63,User12,AccessPoint9,User12 -> AccessPoint12 -> Regional2 -> Core1 -> Regional4 -> AccessPoint9,60,19
+64,User51,AccessPoint8,User51 -> AccessPoint11 -> Regional1 -> Core1 -> Regional3 -> AccessPoint8,60,81
+65,User32,User8,User32 -> AccessPoint12 -> Regional2 -> Core1 -> Regional3 -> AccessPoint8 -> User8,90,39
+66,User94,User25,User94 -> AccessPoint14 -> Regional4 -> Core1 -> Regional5 -> AccessPoint5 -> User25,90,5
+67,User23,User45,User23 -> AccessPoint3 -> Regional3 -> Core1 -> Regional5 -> AccessPoint5 -> User45,90,82
+68,User68,Core1,User68 -> AccessPoint8 -> Regional3 -> Core1,45,89
+69,User36,CDN7,User36 -> AccessPoint16 -> Regional1 -> CDN7,45,62
+70,User59,User40,User59 -> AccessPoint19 -> Regional4 -> Core1 -> Regional5 -> AccessPoint20 -> User40,90,76
+71,User12,User45,User12 -> AccessPoint12 -> Regional2 -> Core1 -> Regional5 -> AccessPoint5 -> User45,90,44
+72,User22,User20,User22 -> AccessPoint2 -> Regional2 -> Core1 -> Regional5 -> AccessPoint20 -> User20,90,82
+73,User28,AccessPoint2,User28 -> AccessPoint8 -> Regional3 -> Core1 -> Regional2 -> AccessPoint2,60,20
+74,User18,AccessPoint2,User18 -> AccessPoint18 -> Regional3 -> Core1 -> Regional2 -> AccessPoint2,60,6
+75,User98,User36,User98 -> AccessPoint18 -> Regional3 -> Core1 -> Regional1 -> AccessPoint16 -> User36,90,21
+76,User59,User79,User59 -> AccessPoint19 -> User79,60,2
+77,User46,AccessPoint11,User46 -> AccessPoint6 -> Regional1 -> AccessPoint11,50,62
+78,User52,User60,User52 -> AccessPoint12 -> Regional2 -> Core1 -> Regional5 -> AccessPoint20 -> User60,90,39
+79,User76,User93,User76 -> AccessPoint16 -> Regional1 -> Core1 -> Regional3 -> AccessPoint13 -> User93,90,92
+80,User69,User44,User69 -> AccessPoint9 -> Regional4 -> AccessPoint4 -> User44,80,11
+81,User61,Regional4,User61 -> AccessPoint1 -> Regional1 -> Core1 -> Regional4,50,74
+82,User18,CDN3,User18 -> AccessPoint18 -> Regional3 -> CDN3,45,27
+83,User1,User45,User1 -> AccessPoint1 -> Regional1 -> Core1 -> Regional5 -> AccessPoint5 -> User45,90,78
+84,User1,User98,User1 -> AccessPoint1 -> Regional1 -> Core1 -> Regional3 -> AccessPoint18 -> User98,90,33
+85,User14,User46,User14 -> AccessPoint14 -> Regional4 -> Core1 -> Regional1 -> AccessPoint6 -> User46,90,75
+86,User27,User19,User27 -> AccessPoint7 -> Regional2 -> Core1 -> Regional4 -> AccessPoint19 -> User19,90,10
+87,User32,User6,User32 -> AccessPoint12 -> Regional2 -> Core1 -> Regional1 -> AccessPoint6 -> User6,90,27
+88,User71,User72,User71 -> AccessPoint11 -> Regional1 -> Core1 -> Regional2 -> AccessPoint12 -> User72,90,38
+89,User60,User65,User60 -> AccessPoint20 -> Regional5 -> AccessPoint5 -> User65,80,77
+90,User1,User5,User1 -> AccessPoint1 -> Regional1 -> Core1 -> Regional5 -> AccessPoint5 -> User5,90,62
+91,User31,AccessPoint1,User31 -> AccessPoint11 -> Regional1 -> AccessPoint1,50,10
+92,User34,User47,User34 -> AccessPoint14 -> Regional4 -> Core1 -> Regional2 -> AccessPoint7 -> User47,90,66
+93,User59,User1,User59 -> AccessPoint19 -> Regional4 -> Core1 -> Regional1 -> AccessPoint1 -> User1,90,65
+94,User67,User47,User67 -> AccessPoint7 -> User47,60,53
+95,User97,User98,User97 -> AccessPoint17 -> Regional2 -> Core1 -> Regional3 -> AccessPoint18 -> User98,90,7
+96,User32,User84,User32 -> AccessPoint12 -> Regional2 -> Core1 -> Regional4 -> AccessPoint4 -> User84,90,47
+97,User12,User70,User12 -> AccessPoint12 -> Regional2 -> Core1 -> Regional5 -> AccessPoint10 -> User70,90,12
+98,User88,User70,User88 -> AccessPoint8 -> Regional3 -> Core1 -> Regional5 -> AccessPoint10 -> User70,90,46
+99,User99,User10,User99 -> AccessPoint19 -> Regional4 -> Core1 -> Regional5 -> AccessPoint10 -> User10,90,29
+100,User81,User9,User81 -> AccessPoint1 -> Regional1 -> Core1 -> Regional4 -> AccessPoint9 -> User9,90,2
